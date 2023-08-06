@@ -1,0 +1,23 @@
+{
+  "name": "low_level_design__tic_tac_toe",
+  "version": "1.0.0",
+  "description": "Low Level Design for Tic Tac Toe",
+  "main": "dist/Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ."
+  },
+  "keywords": [
+    "low level design",
+    "tic tac toe"
+  ],
+  "author": "piyush0074",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.8",
+    "@types/prompt-sync": "^4.2.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
